@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "H:\\AndroidStudioProjects\\wechat_sdk_sample_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_title_btn_right.xml",
+        "source": "H:\\AndroidStudioProjects\\wechat_sdk_sample_android\\app\\src\\main\\res\\drawable\\mm_title_btn_right.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\wechat_sdk_sample_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_one.xml",
+        "source": "H:\\AndroidStudioProjects\\wechat_sdk_sample_android\\app\\src\\main\\res\\drawable\\btn_style_one.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\wechat_sdk_sample_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_checkbox_mini.xml",
+        "source": "H:\\AndroidStudioProjects\\wechat_sdk_sample_android\\app\\src\\main\\res\\drawable\\mm_checkbox_mini.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\wechat_sdk_sample_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_submenu.xml",
+        "source": "H:\\AndroidStudioProjects\\wechat_sdk_sample_android\\app\\src\\main\\res\\drawable\\mm_submenu.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\wechat_sdk_sample_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_checkbox_btn.xml",
+        "source": "H:\\AndroidStudioProjects\\wechat_sdk_sample_android\\app\\src\\main\\res\\drawable\\mm_checkbox_btn.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\wechat_sdk_sample_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preference_item.xml",
+        "source": "H:\\AndroidStudioProjects\\wechat_sdk_sample_android\\app\\src\\main\\res\\drawable\\preference_item.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\wechat_sdk_sample_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_title_btn_back.xml",
+        "source": "H:\\AndroidStudioProjects\\wechat_sdk_sample_android\\app\\src\\main\\res\\drawable\\mm_title_btn_back.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\wechat_sdk_sample_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_alert_dialog_cancel.xml",
+        "source": "H:\\AndroidStudioProjects\\wechat_sdk_sample_android\\app\\src\\main\\res\\drawable\\btn_style_alert_dialog_cancel.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\wechat_sdk_sample_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_alert_dialog_button.xml",
+        "source": "H:\\AndroidStudioProjects\\wechat_sdk_sample_android\\app\\src\\main\\res\\drawable\\btn_style_alert_dialog_button.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\wechat_sdk_sample_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preference_last_item.xml",
+        "source": "H:\\AndroidStudioProjects\\wechat_sdk_sample_android\\app\\src\\main\\res\\drawable\\preference_last_item.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\wechat_sdk_sample_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_edit.xml",
+        "source": "H:\\AndroidStudioProjects\\wechat_sdk_sample_android\\app\\src\\main\\res\\drawable\\mm_edit.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\wechat_sdk_sample_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preference_first_item.xml",
+        "source": "H:\\AndroidStudioProjects\\wechat_sdk_sample_android\\app\\src\\main\\res\\drawable\\preference_first_item.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\wechat_sdk_sample_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preference_one_item.xml",
+        "source": "H:\\AndroidStudioProjects\\wechat_sdk_sample_android\\app\\src\\main\\res\\drawable\\preference_one_item.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\wechat_sdk_sample_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_background.xml",
+        "source": "H:\\AndroidStudioProjects\\wechat_sdk_sample_android\\app\\src\\main\\res\\drawable\\list_selector_background.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\wechat_sdk_sample_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_alert_dialog_special.xml",
+        "source": "H:\\AndroidStudioProjects\\wechat_sdk_sample_android\\app\\src\\main\\res\\drawable\\btn_style_alert_dialog_special.xml"
+    }
+]
